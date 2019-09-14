@@ -1,0 +1,1 @@
+export const CHAVEGOOGLE = 'AIzaSyB13xJgigtWqf8mPnu7BQ7BwYNwI3tkQsw'
